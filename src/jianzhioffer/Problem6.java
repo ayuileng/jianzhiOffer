@@ -1,5 +1,9 @@
 package jianzhioffer;
 
+
+
+import jianzhioffer.node.ListNode;
+
 import java.util.ArrayList;
 
 public class Problem6 {

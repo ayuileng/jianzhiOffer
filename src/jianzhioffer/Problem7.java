@@ -1,5 +1,7 @@
 package jianzhioffer;
 
+import jianzhioffer.node.TreeNode;
+
 import java.util.Arrays;
 
 public class Problem7 {

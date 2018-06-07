@@ -1,4 +1,4 @@
-package jianzhioffer;
+package jianzhioffer.node;
 
 public class TreeNode {
     public int val;

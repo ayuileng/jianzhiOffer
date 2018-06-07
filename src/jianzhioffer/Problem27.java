@@ -1,5 +1,7 @@
 package jianzhioffer;
 
+import jianzhioffer.node.TreeNode;
+
 public class Problem27 {
     //27
     public static void Mirror(TreeNode root) {
