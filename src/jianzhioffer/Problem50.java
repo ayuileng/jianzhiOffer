@@ -1,6 +1,6 @@
 package jianzhioffer;
 
-public class ChouShu {
+public class Problem50 {
     //只包含因子2、3和5的数称作丑数（Ugly Number） 1是第一个丑数
     public int GetUglyNumber_Solution(int index) {
         if (index == 0 || index == 1) return index;
@@ -46,6 +46,6 @@ public class ChouShu {
 
     public static void main(String[] args) {
         System.out.println(uglyNumber2(8));
-        System.out.println(new ChouShu().GetUglyNumber_Solution(8));
+        System.out.println(new Problem50().GetUglyNumber_Solution(8));
     }
 }
